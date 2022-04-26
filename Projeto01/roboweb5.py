@@ -14,7 +14,7 @@ para retirar todo log de quando roda o código
 # driver = webdriver.Chrome(options = options)
 """
 
-arq = open('Resultado.txt', 'w') #o python gera um arquivo com o nome especificado. o 'w' no final é de write para escrever
+arq = open('D:\Estudo Python\PythonBot\Projeto01\Resultado.txt', 'w') #o python gera um arquivo com o nome especificado. o 'w' no final é de write para escrever
 #funciona com .txt  .xls(tudo na mesma coluna)
 
 workbook = xlrd.open_workbook('D:\Estudo Python\PythonBot\Projeto01\excel.xls') #entre '' coloca o caminho para o arquivo r Strings** utiliza o r antes das '' para o programa aceitar \
