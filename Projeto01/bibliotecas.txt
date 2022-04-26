@@ -1,0 +1,4 @@
+selenium
+xlrd
+webdriver-manager
+https://pypi.org/project/webdriver-manager/
