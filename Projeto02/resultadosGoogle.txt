@@ -1,0 +1,12 @@
+Welcome to Python.org;https://www.python.org/
+Welcome to Python.org;https://www.python.org/
+;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+;https://python.org.br/introducao/
+;https://olhardigital.com.br/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/
+;https://eesp.fgv.br/cursos/cursos-de-aperfeicoamento/programacao-python-r-matlab
+;https://www.inf.pucrs.br/pinho/PCB/Variaveis/Variaveis.html
+;https://cafeinacodificada.com.br/5-ides-para-programar-python/
+;https://www.alura.com.br/artigos/listas-no-python
+;https://canaltech.com.br/mercado/desenvolvedores-da-python-lancam-3-novas-versoes-da-linguagem-de-programacao-206897/
+Learn Python 3 | Codecademy;https://www.codecademy.com/learn/learn-python-3
+PyCharm: the Python IDE for Professional Developers by ...;https://www.jetbrains.com/pycharm/
