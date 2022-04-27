@@ -33,24 +33,29 @@ pagina_atual = 0
 startP = 0
 lista_resultado = []
 
-while pagina_atual <9:
-    if not pagina_atual ==0:
+while pagina_atual < 9:
+    if not pagina_atual == 0:
         url_pagina = url_pagina.replace('start=%s' % startP, 'start=%s' % (startP+10))
         startP += 10
         driver.get(url_pagina)
-    pagina_atual += 1
+    
 
-    divis = driver.find_elements(By.XPATH, "//div[@class='g']")
+    divs = driver.find_elements(By.XPATH, "//div[@class='g']")
+    divs = divs + driver.find_elements(By.XPATH, "//div[contains(@class, 'g ')]")
     sleep(2)
-    for div in divis:
-        titulo = div.find_element(By.TAG_NAME, 'h3')
-        link = div.find_element(By.TAG_NAME, 'a').get_attribute('href')
-        resultado = '%s;%s' % (titulo.text, link)
-        #print(resultado)
+    for div in divs:
+        try:
+            titulo = div.find_element(By.TAG_NAME, 'h3')
+            link = div.find_element(By.TAG_NAME, 'a').get_attribute('href')
+            resultado = '%s  ||  %s' % (titulo.text, link)
+            print(resultado)
+        except:
+            print('Informações não encontradas!')
         lista_resultado.append(resultado) # adiciona resultado dentro da lista
+    pagina_atual += 1
 
 with open(r'D:\Estudo Python\PythonBot\Projeto02\resultadosGoogle.txt', 'w') as arquivo :
     for resultado in lista_resultado:
         arquivo.write('%s\n'%resultado)
     arquivo.close
-print('%s resultados foram salvos no arquivo resultadosGoogle.txt'%len(lista_resultado))
+print('%s dos resultados encontrados foram salvos no arquivo resultadosGoogle.txt'%len(lista_resultado))

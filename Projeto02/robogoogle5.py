@@ -32,17 +32,22 @@ url_pagina = driver.find_element(By.XPATH, "//a[@aria-label='Page 2']").get_attr
 pagina_atual = 0
 startP = 0
 
-while pagina_atual <9:
-    if not pagina_atual ==0:
+while pagina_atual < 9:
+    if not pagina_atual == 0:
         url_pagina = url_pagina.replace('start=%s' % startP, 'start=%s' % (startP+10))
         startP += 10
         driver.get(url_pagina)
-    pagina_atual += 1
+    
 
-    divis = driver.find_elements(By.XPATH, "//div[@class='g']")
+    divs = driver.find_elements(By.XPATH, "//div[@class='g']")
+    divs = divs + driver.find_elements(By.XPATH, "//div[contains(@class, 'g ')]")
     sleep(2)
-    for div in divis:
-        titulo = div.find_element(By.TAG_NAME, 'h3')
-        link = div.find_element(By.TAG_NAME, 'a').get_attribute('href')
-        resultado = '%s;%s' % (titulo.text, link)
-        print(resultado)
+    for div in divs:
+        try:
+            titulo = div.find_element(By.TAG_NAME, 'h3')
+            link = div.find_element(By.TAG_NAME, 'a').get_attribute('href')
+            resultado = '%s  ||  %s' % (titulo.text, link)
+            print(resultado)
+        except:
+            print('Informações não encontradas!')
+    pagina_atual += 1

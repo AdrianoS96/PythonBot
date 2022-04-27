@@ -1,12 +1,98 @@
-Welcome to Python.org;https://www.python.org/
-Welcome to Python.org;https://www.python.org/
-;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
-;https://python.org.br/introducao/
-;https://olhardigital.com.br/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/
-;https://eesp.fgv.br/cursos/cursos-de-aperfeicoamento/programacao-python-r-matlab
-;https://www.inf.pucrs.br/pinho/PCB/Variaveis/Variaveis.html
-;https://cafeinacodificada.com.br/5-ides-para-programar-python/
-;https://www.alura.com.br/artigos/listas-no-python
-;https://canaltech.com.br/mercado/desenvolvedores-da-python-lancam-3-novas-versoes-da-linguagem-de-programacao-206897/
-Learn Python 3 | Codecademy;https://www.codecademy.com/learn/learn-python-3
-PyCharm: the Python IDE for Professional Developers by ...;https://www.jetbrains.com/pycharm/
+Welcome to Python.org  ||  https://www.python.org/
+Welcome to Python.org  ||  https://www.python.org/
+  ||  https://olhardigital.com.br/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/
+  ||  https://python.org.br/introducao/
+  ||  https://eesp.fgv.br/cursos/cursos-de-aperfeicoamento/programacao-python-r-matlab
+  ||  https://pt.wikihow.com/Come%C3%A7ar-a-Programar-em-Python
+Cursos da Escola Python, Programação - Alura  ||  https://www.alura.com.br/cursos-online-programacao/python
+  ||  https://www.inf.pucrs.br/pinho/PCB/Variaveis/Variaveis.html
+  ||  https://cafeinacodificada.com.br/5-ides-para-programar-python/
+  ||  https://www.alura.com.br/artigos/listas-no-python
+  ||  https://canaltech.com.br/mercado/desenvolvedores-da-python-lancam-3-novas-versoes-da-linguagem-de-programacao-206897/
+Python Brasil  ||  https://python.org.br/
+Python – Wikipédia, a enciclopédia livre  ||  https://pt.wikipedia.org/wiki/Python
+Python: o que é, como usar, guia pra aprender a linguagem  ||  https://blog.betrybe.com/python/
+E os primeiros passos no Python - DevMedia  ||  https://www.devmedia.com.br/primeiros-passos-com-o-python/37003
+Python Brasil 2019  ||  https://2019.pythonbrasil.org.br/
+Imagens  ||  https://www.google.com.br/search?q=python&tbm=isch&source=iu&ictx=1&vet=1&fir=TsGHEA4srKFqXM%252CXIYbQ09d8j77pM%252C%252Fm%252F05z1_%253B9fpps9heKSdsMM%252Cl4uursrE5fcXFM%252C_%253BaNKixiwLiDxvIM%252C3wRBXLyvECcz0M%252C_%253BqPvUzmDFVaFIUM%252CD3HgVGwizTVPMM%252C_%253BL8L--4395PS5MM%252CmWclbk542EwrPM%252C_%253BtgsozZjEKIsviM%252CN9Q9z5XJPg2g3M%252C_&usg=AI4_-kQC8G8OQJnAtuV1SvWRhcwBu1MU9Q&sa=X&ved=2ahUKEwjzvbis_rL3AhUZuZUCHRYDBJMQ_B16BAhYEAE#imgrc=TsGHEA4srKFqXM
+Imagens  ||  https://www.google.com.br/search?q=python&tbm=isch&source=iu&ictx=1&vet=1&fir=TsGHEA4srKFqXM%252CXIYbQ09d8j77pM%252C%252Fm%252F05z1_%253B9fpps9heKSdsMM%252Cl4uursrE5fcXFM%252C_%253BaNKixiwLiDxvIM%252C3wRBXLyvECcz0M%252C_%253BqPvUzmDFVaFIUM%252CD3HgVGwizTVPMM%252C_%253BL8L--4395PS5MM%252CmWclbk542EwrPM%252C_%253BtgsozZjEKIsviM%252CN9Q9z5XJPg2g3M%252C_&usg=AI4_-kQC8G8OQJnAtuV1SvWRhcwBu1MU9Q&sa=X&ved=2ahUKEwjzvbis_rL3AhUZuZUCHRYDBJMQ_B16BAhYEAE#imgrc=TsGHEA4srKFqXM
+Introdução à Ciência da Computação com Python Parte 1  ||  https://pt.coursera.org/learn/ciencia-computacao-python-conceitos
+Learn Python Programming with Online Courses ... - edX  ||  https://www.edx.org/learn/python
+O que é Python? [Guia para iniciantes] - Tecnoblog  ||  https://tecnoblog.net/responde/o-que-e-python-guia-para-iniciantes/
+Python - O que é, conceitos iniciais e gerais | Responde Aí  ||  https://www.respondeai.com.br/conteudo/programacao/python
+rochacbruno/python-week-2022 - GitHub  ||  https://github.com/rochacbruno/python-week-2022
+Python Club  ||  http://pythonclub.com.br/
+Python Pro – Construa uma carreira a prova de crise  ||  https://pythonpro.com.br/
+O que é Python e pra que serve? | Blog Voitto  ||  https://www.voitto.com.br/blog/artigo/python
+Python Fundamentos Para Análise de Dados 3.0 - Data ...  ||  https://www.datascienceacademy.com.br/course/python-fundamentos
+Curso de python online e presencial - 4Linux  ||  https://4linux.com.br/cursos/treinamento/python-fundamentals-4linux/
+Python 3 - Mundo 1 [40 Horas] - Curso em Vídeo  ||  https://www.cursoemvideo.com/curso/python-3-mundo-1/
+Python Courses & Tutorials | Codecademy  ||  https://www.codecademy.com/catalog/language/python
+Introduction to Python Course | DataCamp  ||  https://www.datacamp.com/courses/intro-to-python-for-data-science
+Introduction to Python - W3Schools  ||  https://www.w3schools.com/python/python_intro.asp
+Learn Python Tutorials - Kaggle  ||  https://www.kaggle.com/learn/python
+PyCharm: the Python IDE for Professional Developers by ...  ||  https://www.jetbrains.com/pycharm/
+Python Courses, Training, and Tutorials - Udemy  ||  https://www.udemy.com/topic/python/
+Python on Google App Engine  ||  https://cloud.google.com/appengine/docs/python
+O Guia do Mochileiro Python: Melhores Práticas Para ...  ||  https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-Desenvolvimento/dp/8575225413
+Desenvolvimento no Python com o Visual Studio - Microsoft ...  ||  https://docs.microsoft.com/pt-br/visualstudio/python/
+Real Python: Python Tutorials  ||  https://realpython.com/
+O que é Python, para que serve e por que aprender? - Kenzie ...  ||  https://kenzie.com.br/blog/o-que-e-python/
+Python Programming Language - GeeksforGeeks  ||  https://www.geeksforgeeks.org/python-programming-language/
+Python Brasil - Home | Facebook  ||  https://pt-br.facebook.com/pythonbrasil/
+PCAP: Programming Essentials in Python - Cisco Networking ...  ||  https://www.netacad.com/courses/programming/pcap-programming-essentials-python
+Visualize Python, Java, JavaScript, C, C++, Ruby code ...  ||  https://pythontutor.com/visualize.html
+PyPI · The Python Package Index  ||  https://pypi.org/
+Python for Beginners | openSAP  ||  https://open.sap.com/courses/python1
+Python Tutorial - Tutorialspoint  ||  https://www.tutorialspoint.com/python/index.htm
+How to Get Started With Python? - Programiz  ||  https://www.programiz.com/python-programming/first-program
+Python Mode for Processing  ||  https://py.processing.org/
+MicroPython - Python for microcontrollers  ||  https://micropython.org/
+scikit-learn: machine learning in Python — scikit-learn 1.0.2 ...  ||  https://scikit-learn.org/
+Python in Visual Studio Code  ||  https://code.visualstudio.com/docs/languages/python
+Core Python Learning Path | Pluralsight  ||  https://www.pluralsight.com/paths/core-python
+Anaconda Distribution  ||  https://www.anaconda.com/products/distribution
+Download & Install Python - ActiveState  ||  https://www.activestate.com/products/python/
+Free Intro to Python Course - Udacity  ||  https://www.udacity.com/course/introduction-to-python--ud1110
+Scientific Computing with Python Certification - freeCodeCamp  ||  https://www.freecodecamp.org/learn/scientific-computing-with-python
+Usando Python | João (@usandopython) • Instagram photos ...  ||  https://www.instagram.com/usandopython/
+What is Python? | Opensource.com  ||  https://opensource.com/resources/python
+Python - LinkedIn Learning, formerly Lynda.com  ||  https://www.linkedin.com/learning/topics/python
+Django: The web framework for perfectionists with deadlines  ||  https://www.djangoproject.com/
+Python para que serve: top 5 utilidades - Blog - Harve  ||  https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+Python Certifications  ||  https://pythoninstitute.org/certification/
+pandas - Python Data Analysis Library  ||  https://pandas.pydata.org/
+Learn Python - Free Interactive Python Tutorial  ||  https://www.learnpython.org/
+PY4E - Python for Everybody  ||  https://www.py4e.com/
+Python - Reddit  ||  https://www.reddit.com/r/Python/
+Google's Python Class | Python Education  ||  https://developers.google.com/edu/python
+Learn Python Tutorial - javatpoint  ||  https://www.javatpoint.com/python-tutorial
+CodingBat Python  ||  https://codingbat.com/python
+Python Programming - Wikibooks, open books for an open world  ||  https://en.wikibooks.org/wiki/Python_Programming
+The Hitchhiker's Guide to Python  ||  https://docs.python-guide.org/
+Python | Software | TechTudo  ||  https://www.techtudo.com.br/tudo-sobre/python/
+Full Stack Python  ||  https://www.fullstackpython.com/
+Download Connector/Python - MySQL :: Developer Zone  ||  https://dev.mysql.com/downloads/connector/python/
+Welcome To Colaboratory - Google Research  ||  https://research.google.com/colaboratory/
+Matplotlib — Visualization with Python  ||  https://matplotlib.org/
+Python tutorials, questions, and resources | DigitalOcean  ||  https://www.digitalocean.com/community/tags/python
+Para que serve o "with" no Python? - Stack Overflow  ||  https://pt.stackoverflow.com/questions/49238/para-que-serve-o-with-no-python
+Design GUI with Python | Python Bindings for Qt  ||  https://www.qt.io/qt-for-python
+Python Programming Tutorials  ||  https://pythonprogramming.net/
+Johnny Depp blames 'burn Amber' text on Monty Python - BBC  ||  https://www.bbc.com/news/world-us-canada-61221859
+Python Numpy Tutorial (with Jupyter and Colab) - CS231n ...  ||  https://cs231n.github.io/python-numpy-tutorial/
+Python Courses and Tutorials: Online and On Site  ||  https://python-course.eu/
+An Hour of Python: Trinket  ||  https://hourofpython.com/
+SciPy  ||  https://scipy.org/
+Solve Python | HackerRank  ||  https://www.hackerrank.com/domains/python
+Python (genus) - Wikipedia  ||  https://en.wikipedia.org/wiki/Python_(genus)
+CircuitPython  ||  https://circuitpython.org/
+Thonny, Python IDE for beginners  ||  https://thonny.org/
+Python Institute - Pearson VUE  ||  https://home.pearsonvue.com/python
+IronPython.net /  ||  https://ironpython.net/
+ArcGIS API for Python  ||  https://developers.arcgis.com/python/
+Your Python Trinket  ||  https://trinket.io/python
+Miniconda — Conda documentation  ||  https://conda.io/miniconda.html
+What is the Python programming language? - TechTarget  ||  https://www.techtarget.com/whatis/definition/Python
+Learning Python, 5th Edition [Book] - O'Reilly Media  ||  https://www.oreilly.com/library/view/learning-python-5th/9781449355722/
+Top 10 Websites to Learn Python for Free in 2022 - Analytics ...  ||  https://www.analyticsinsight.net/top-10-websites-to-learn-python-for-free-in-2022/
